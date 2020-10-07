@@ -1,0 +1,129 @@
+/* ELEMENT SELECTORS */
+
+body {background-color: #c3edea;
+ color: #686d76;
+font-family: 'Poppins', sans-serif;
+}
+
+
+h2, h3, h4 {font-family: 'Roboto Slab', serif;
+}
+h2 {color: #f40552;}
+
+
+section {
+  width: 44%;
+  margin: 3rem;
+  padding: 1.5rem;
+  padding-right: 0;
+  background-color: #f8f3eb;
+  border-radius: 8%;
+}
+
+/* font-family: 'Sansita Swashed', cursive; */
+
+h1 {font-size: 7rem;
+margin: 0;
+padding: 0;
+color: #fc7e2f;
+font-family: 'Poppins', sans-serif;
+
+
+}
+
+table {border-spacing: 1rem;
+ width: 30rem;
+ margin-left: -1rem;
+}
+
+img {width: 10rem;
+  margin-bottom: 1rem;
+}
+
+
+
+/* CLASS SELECTORS */
+
+
+.left {padding-top: 0;}
+.right {position: absolute;
+right: 0;
+top: 0;
+}
+.ivon {font-size: 3rem;
+color: #f40552;
+width: 30rem;
+margin:0;
+padding: 0;
+}
+.contact-set {
+  text-align: left;
+line-height: 3;
+margin-top: 0;
+padding-top: 0;
+}
+.fa-3x {color: #c3edea;
+margin-right: 1.3rem;}
+.fa-3x:hover {color: #fc7e2f;}
+.fa-star {color: #fddb3a;}
+
+.span {font-weight: bolder;}
+.profile-title {transform: rotate(-5deg);
+font-size: 2.5rem;}
+
+
+
+/* ID SELECTORS */
+
+#contact, #skills, #education, #experience {width: 80%;
+margin: 3rem;}
+
+
+#experience {margin-top: -2rem;}
+
+#profile {width: 50%;
+border-radius: 50%;
+background-color: #c3edea;
+padding: 5rem;
+position: relative;
+left: 12rem;
+bottom: 4rem;
+heigh: 3rem;
+}
+
+#contact {
+  padding-top:0;
+  margin-top: 0;
+}
+
+/* BUTTON */
+.btn {
+background:linear-gradient(to bottom, #66bfbf 5%, #11999e 100%);
+background-color:#66bfbf;
+border-radius:8px;
+display:inline-block;
+cursor:pointer;
+color:#eaf6f6;
+font-family: 'Roboto Slab', serif;
+font-size:20px;
+font-weight:bold;
+padding:6px 24px;
+text-decoration:none;
+
+}
+.btn:hover {
+background:linear-gradient(to bottom, #30e3cb 5%, #2bc4ad 100%);
+background-color:#11999e;
+}
+
+
+.btn:active {
+position:relative;
+top:1px;
+}
+
+.button-section {
+  background-color: inherit;
+  text-align: center;
+  padding-left: 0;
+}
