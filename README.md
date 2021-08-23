@@ -1,6 +1,6 @@
 # Resume Template
 
-Resume template coded and designed with CSS3. Pure CSS positioning was used to create the layout.
+Resume template coded with HTML5 and CSS3. Pure CSS positioning was used to create the layout.
 \
 &nbsp;
 
