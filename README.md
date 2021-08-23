@@ -24,4 +24,4 @@ There is also a pdf version of the same document (see the code for this reposito
 &nbsp;
 <img src="./images/screen-2.png" alt="drawing" width="1000"/>
 
-## Want to see it live? Visit the [resume](https://ibadra.github.io/resume/) site 💼
+## Want to see it live? Visit the [resume](https://ibadra.github.io/resume-template/) site 💼
